@@ -85,15 +85,8 @@ or compatible)** and **LINK**. The easiest way to get one today is
 Because the game is a single self-contained `.exe` once built, it can be made
 playable directly in a browser with zero setup for the player:
 
-1. Build `iter3.exe` locally as described above.
-2. Use [js-dos](https://js-dos.com/) to wrap `iter3.exe` in a small HTML page
-   that runs it through an in-browser DOSBox emulator.
-3. Host that page for free with **GitHub Pages**, enabled from this repo's
-   Settings → Pages.
-
-This repo currently ships source only. A `/web` folder with a ready-to-go
-js-dos build can be added later if you want a live "Play in browser" link.
-
+open: https://fahima-sohail.github.io/brick-breaker-in-assembly/
+click the play button and enjoy !
 ## Course info
 
 EE-2003 Computer Organization and Assembly Language — FAST-NUCES Islamabad, Spring 2026.
